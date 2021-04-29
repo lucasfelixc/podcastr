@@ -10,7 +10,7 @@ export const Header: React.FC = () => {
 
   return(
     <Container>
-      <img src="/icons/logo.svg" alt="Podnow"/>
+      <img src="/logo.svg" alt="Podnow"/>
 
       <p>Divirta-se ouvindo o melhor conteúdo, sempre</p>
 
